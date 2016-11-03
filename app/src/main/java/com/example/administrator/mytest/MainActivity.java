@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        System.out.println("希望你能爱我到天荒地老");
+        System.out.println("希望你能爱我到天荒地老，我一点会");
 
         show();
     }
